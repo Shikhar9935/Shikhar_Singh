@@ -1,7 +1,7 @@
 # Shikhar_Singh
 <h1 align="center">Hi 👋, I'm Shikhar Singh</h1>
 <h3 align="center">I'am a Passionate Developer/Programmer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw2chfdYWpXY7dLmGuASq-MJ&ust=1686585074342000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCqjZLJu_8CFQAAAAAdAAAAABA4">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar9935&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar9935" /> </p>
 
